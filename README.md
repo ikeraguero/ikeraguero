@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeraguero&theme=nightowl)
 
 
+![snake gif](https://github.com/ikeraguero/ikeraguero/blob/output/github-contribution-grid-snake.gif)
