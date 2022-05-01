@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 #Snake
 
-![snake gif](https://github.com/ikeraguero/ikeraguero/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/ikeraguero/ikeraguero/blob/output/github-contribution-grid-snake.svg)
