@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 #Snake
 
 ![snake gif](https://github.com/ikeraguero/ikeraguero/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
