@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeraguero&theme=nightowl)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ikeraguero&theme=radical&layout=compact)
 
 ![snake gif](https://github.com/ikeraguero/ikeraguero/blob/output/github-contribution-grid-snake.svg)
