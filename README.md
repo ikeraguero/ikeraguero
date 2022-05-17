@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeraguero&show_icons=true&theme=radical)
-
+<div align="center">
+  <a href="https://github.com/ikeraguero">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikeraguero&show_icons=true&theme=radical"/>
+</div>
 
 
 ![snake gif](https://github.com/ikeraguero/ikeraguero/blob/output/github-contribution-grid-snake.svg)
