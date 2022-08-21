@@ -1,5 +1,5 @@
 ### 
-<div class="text-align-center">
+<div align="center">
 Hi there 👋
 </div>
 <!--
