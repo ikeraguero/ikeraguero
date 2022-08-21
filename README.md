@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/ikeraguero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikeraguero&show_icons=true&theme=radical"/>
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikeraguero&layout=compact)](https://github.com/ikeraguero/github-readme-stats)
 
 ![snake gif](https://github.com/ikeraguero/ikeraguero/blob/output/github-contribution-grid-snake.svg)
