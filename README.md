@@ -1,6 +1,6 @@
 
 <div align="center">
-Hi there 👋
+Hi there, my name is Iker Aguero Pires 👋
 </div>
 
 <!--
