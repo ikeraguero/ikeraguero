@@ -1,6 +1,8 @@
 
 <div align="center">
-Hi there, my name is Iker Aguero Pires, welcome to my Github profile! 👋
+  
+## Hi there, my name is Iker Aguero Pires, welcome to my Github profile! 👋
+
 </div>
 
 <!--
@@ -27,6 +29,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeraguero&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div>
+</div>
 
 ## Tech Stack:
 
@@ -36,7 +39,7 @@ Here are some ideas to get you started:
  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </diV> 
  
-</div>
+
 
 
  
