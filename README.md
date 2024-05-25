@@ -1,7 +1,21 @@
 
 <div align="center">
   
-## Hi there, my name is Iker Aguero Pires, welcome to my Github profile! 👋
+## Hi there, I'm Iker Aguero Pires! 👋
+
+Welcome to my GitHub profile!
+## About Me
+
+💼 Profession: Aspiring Developer
+🌍 Location: Joinville, Brazil
+🎓 Education: Studying Systems Development and Analysis at UDESC
+📧 Contact: ikerpires407@gmail.com
+
+## What I Do
+
+🚀 Projects: I love working on projects that solve real-world problems. Check out my pinned repositories below!
+💡 Interests: Software development, algorithms, and open-source contributions.
+📚 Learning: Currently diving deep into OOP and web development concepts.
 
 </div>
 
