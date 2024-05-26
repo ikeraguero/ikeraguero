@@ -10,13 +10,14 @@ Welcome to my GitHub profile!<br>
 
 💼 Profession: Aspiring Developer <br>
 🌍 Location: Joinville, Brazil <br>
-🎓 Education: Studying Systems Development and Analysis at <a href='https://www.udesc.br/international'>UDESC</a> <br>
-📧 Contact: ikerpires407@gmail.com <br>
+🎓 Education: Studying Systems Development and Analysis at <a href="https://www.udesc.br/international">UDESC</a> <br>
+📧 Contact: <a href="mailto:ikerpires407@gmail.com" style="color: inherit; text-decoration: none;">ikerpires407@gmail.com</a><br>
 <br>
+
 
 <h2>What I Do</h2>
 
-🚀 Projects: I love working on projects that allow me to put what I learn into pratice. Check my pinned repositories below! <br>
+🚀 Projects: I love working on projects that allow me to put what I learn into practice. Check my pinned repositories below! <br>
 💡 Interests: Web Development <br>
 📚 Learning: Currently diving deep into JavaScript and Web Development concepts. <br>
 <br>
