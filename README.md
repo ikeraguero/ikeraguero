@@ -1,9 +1,10 @@
 
 <div>
-  
+<div align='center'>
 <h2> Hi there, I'm Iker Aguero Pires! 👋</h2>
 
 Welcome to my GitHub profile!<br>
+</div>
 <br>
 
 <h2>About me</h2> 
