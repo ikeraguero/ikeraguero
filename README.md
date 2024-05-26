@@ -16,7 +16,7 @@ Welcome to my GitHub profile!<br>
 
 <h2>What I Do</h2>
 
-🚀 Projects: I love working on projects that allow me to put in practice what I learn. Check my pinned repositories below! <br>
+🚀 Projects: I love working on projects that allow me to put what I learn into pratice. Check my pinned repositories below! <br>
 💡 Interests: Web Development <br>
 📚 Learning: Currently diving deep into JavaScript and Web Development concepts. <br>
 <br>
