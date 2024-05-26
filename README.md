@@ -4,18 +4,21 @@
 <h2> Hi there, I'm Iker Aguero Pires! 👋</h2>
 
 Welcome to my GitHub profile!
+<br>
 <h2>About me</h2> 
 
 💼 Profession: Aspiring Developer <br>
 🌍 Location: Joinville, Brazil <br>
-🎓 Education: Studying Systems Development and Analysis at UDESC <br>
+🎓 Education: Studying Systems Development and Analysis at <a href='https://www.udesc.br/international'>UDESC</a> <br>
 📧 Contact: ikerpires407@gmail.com <br>
+<br>
 
 <h2>What I Do</h2>
 
 🚀 Projects: I love working on projects that allow me to put in practice what I learn. Check my pinned repositories below! <br>
 💡 Interests: Web Development <br>
 📚 Learning: Currently diving deep into JavaScript and Web Development concepts. <br>
+<br>
 
 </div>
 
