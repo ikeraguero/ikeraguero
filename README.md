@@ -3,8 +3,9 @@
   
 <h2> Hi there, I'm Iker Aguero Pires! 👋</h2>
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile!<br>
 <br>
+
 <h2>About me</h2> 
 
 💼 Profession: Aspiring Developer <br>
