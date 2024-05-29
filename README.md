@@ -10,7 +10,7 @@ Welcome to my GitHub profile!<br>
 <h2>About me</h2> 
 
 💼 Profession: Aspiring Developer <br>
-🌍 Location: Joinville, Brazil <br>
+🌍 Location: Joinville, Santa Catarina, Brazil <br>
 🎓 Education: Studying Systems Development and Analysis at <a href="https://www.udesc.br/international">UDESC</a> <br>
 📧 Contact: <a href="mailto:ikerpires407@gmail.com" style="color: inherit; text-decoration: none;">ikerpires407@gmail.com</a><br>
 <br>
