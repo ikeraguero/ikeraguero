@@ -9,7 +9,7 @@ Welcome to my GitHub profile!<br>
 
 <h2>About me</h2> 
 
-💼 Profession: Aspiring Developer <br>
+💼 Profession: Software Developer Intern at <a href="https://softexpert.com">SoftExpert</a><br>
 🌍 Location: Joinville, Santa Catarina, Brazil <br>
 🎓 Education: Systems Development and Analysis Student at <a href="https://www.udesc.br/international">UDESC</a> | IT Technician certified by <a href="https://araquari.ifc.edu.br/">IFC</a> <br>
 📧 Contact: <a href="mailto:ikerpires407@gmail.com" style="color: inherit; text-decoration: none;">ikerpires407@gmail.com</a><br>
