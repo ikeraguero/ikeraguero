@@ -20,25 +20,8 @@ Welcome to my GitHub profile!<br>
 
 🚀 Projects: I love working on projects that allow me to put what I learn into practice. Check my pinned repositories below! <br>
 💡 Interests: Web Development <br>
-📚 Learning: Currently diving deep into the React library <br>
+📚 Learning: Currently diving deep into the React library for frontend and the Java programming language for backend. <br>
 <br>
-
-</div>
-
-<!--
-**ikeraguero/ikeraguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
 
@@ -60,14 +43,6 @@ Here are some ideas to get you started:
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </diV> 
 
-<!--
-## Learning:
-
-<div style="display: inline_block"><br>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-</diV> 
--->
 
 
  
