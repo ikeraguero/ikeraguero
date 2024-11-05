@@ -20,7 +20,7 @@ Welcome to my GitHub profile!<br>
 
 🚀 Projects: I love working on projects that allow me to put what I learn into practice. Check my pinned repositories below! <br>
 💡 Interests: Web Development <br>
-📚 Learning: Currently diving deep into Java. <br>
+📚 Learning: Currently diving deep into Java <br>
 <br>
 
 <div align="center">
