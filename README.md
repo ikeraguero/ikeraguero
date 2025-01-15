@@ -19,7 +19,7 @@ Welcome to my GitHub profile!<br>
 <h2>What I Do</h2>
 
 🚀 Projects: I love working on projects that allow me to put what I learn into practice. Check my pinned repositories below! <br>
-💡 Interests: Web Development <br>
+💡 Interests: Full Stack Web Development <br>
 📚 Learning: Currently diving deep into Java and Spring Boot <br>
 <br>
 
